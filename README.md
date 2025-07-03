@@ -33,6 +33,6 @@ Using K-Means, the project segments customers based on their RFM scores, providi
 
 
 ## Dataset Information
-Source: https://archive.ics.uci.edu/dataset/502/online+retail+ii
-Duration: Transactions from 01/12/2009 to 09/12/2011
-Nature: UK-based, online gift retailer with many wholesale customers
+- Source: https://archive.ics.uci.edu/dataset/502/online+retail+ii
+- Duration: Transactions from 01/12/2009 to 09/12/2011
+- Nature: UK-based, online gift retailer with many wholesale customers
